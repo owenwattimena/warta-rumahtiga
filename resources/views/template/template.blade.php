@@ -1,0 +1,5 @@
+@include('template.header')
+@include('template.navbar')
+@include('template.aside')
+@include('template.centent')
+@include('template.footer')
